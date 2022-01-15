@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21cf27af-d472-4634-8454-1f44fe5228f2" name="Changes" comment="Change background and Titles">
+    <list default="true" id="21cf27af-d472-4634-8454-1f44fe5228f2" name="Changes" comment="Change database sqlite to postgres">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -104,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642225816802</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Change database sqlite to postgres">
+      <created>1642226932581</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1642226932581</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -125,6 +132,7 @@
     <MESSAGE value="Add gunicorn" />
     <MESSAGE value="Changes Some things" />
     <MESSAGE value="Change background and Titles" />
-    <option name="LAST_COMMIT_MESSAGE" value="Change background and Titles" />
+    <MESSAGE value="Change database sqlite to postgres" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change database sqlite to postgres" />
   </component>
 </project>
