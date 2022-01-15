@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21cf27af-d472-4634-8454-1f44fe5228f2" name="Changes" comment="Changes Some things">
+    <list default="true" id="21cf27af-d472-4634-8454-1f44fe5228f2" name="Changes" comment="Change background and Titles">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/posts.db" beforeDir="false" afterPath="$PROJECT_DIR$/posts.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642219655132</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Change background and Titles">
+      <created>1642225816802</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1642225816802</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -118,6 +124,7 @@
     <MESSAGE value="Add Gunicorn" />
     <MESSAGE value="Add gunicorn" />
     <MESSAGE value="Changes Some things" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changes Some things" />
+    <MESSAGE value="Change background and Titles" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change background and Titles" />
   </component>
 </project>
